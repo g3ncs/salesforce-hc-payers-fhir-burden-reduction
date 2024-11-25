@@ -1,6 +1,6 @@
 # README
 
-A repo containing all the basic file templates and general guidelines for any open source project at Salesforce.
+This codebase hosts a Nodejs sample application that acts as a middleware between Salesforce (payers) and EHR (provider systems). The application aims to facilitate self-service for providers to interact with the payer's Salesforce org hosting CRD, DTR, and PAS APIs. If built well, this could be leveraged as a SMART on FHIR App for UM use cases.
 
 ## Usage
 
